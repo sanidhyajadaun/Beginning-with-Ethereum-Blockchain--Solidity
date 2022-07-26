@@ -15,3 +15,16 @@ Before writing the "First smart contract" I learnt about the different versions 
 In the modifiers program I have used the constructor, functions and the data hiding method to allow the contract accessible to only a specific user. 
 
 #
+
+## **Struts**
+
+
+#
+
+## **View vs Pure**
+
+
+
+# 
+
+## **Error handling**
