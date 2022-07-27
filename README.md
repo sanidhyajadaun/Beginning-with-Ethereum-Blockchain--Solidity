@@ -18,7 +18,7 @@ In the modifiers program I have used the constructor, functions and the data hid
 
 ## **Struts**
 
-
+As we know Struct is simply we are defining our own data type or we can say creating a collection of primitive data type and creating our own data type. Therefore, in this section a program which stores student details and returns student roll no.
 #
 
 ## **View vs Pure**
