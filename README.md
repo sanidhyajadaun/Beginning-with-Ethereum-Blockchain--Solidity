@@ -23,7 +23,11 @@ As we know Struct is simply we are defining our own data type or we can say crea
 
 ## **View vs Pure**
 
+First of all let us know the basic difference between View vs Pure
 
+Pure function declares that no state variable will be changed or read. view tells us that by running the function, no data will be saved/changed. pure tells us that not only does the function not save any data to the blockchain, but it also doesn't read any data from the blockchain.
+
+In the Program file I have used both pure and view according to the differences.
 
 # 
 
