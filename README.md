@@ -32,3 +32,14 @@ In the Program file I have used both pure and view according to the differences.
 # 
 
 ## **Error handling**
+
+assert() :
+1) Useful for internal error
+2) Useful for completely unexpected scenario
+3) Use assert rarely
+
+require() :
+1) Useful for general purpose error
+2) We use require so often in code for error handling
+
+#
